@@ -25,7 +25,7 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ## Links
 
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://hregniez.github.io/qr-code-component-main/)
 
 ## My process
 
