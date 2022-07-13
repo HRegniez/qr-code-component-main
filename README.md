@@ -19,8 +19,6 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 - Live Site URL: (https://hregniez.github.io/qr-code-component-main/)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
